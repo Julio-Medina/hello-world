@@ -1,2 +1,3 @@
 # hello-world
 This is just a test repository
+This is my first repository, my name is Julio Medina, I am a physicist with many interests: math, programming, quantum mechanics, quantum field theory, quantum computing, machine learning, classical mechanics, electrodynamics, python, tensorflow, and many others...
